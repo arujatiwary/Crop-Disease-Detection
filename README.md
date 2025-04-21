@@ -12,3 +12,5 @@ Advanced data augmentation techniques to overcome class imbalance and enhance ge
 A diverse dataset of over 13,000 images covering both healthy and diseased crops
 
 FARM-AID achieves over 96% classification accuracy, offering a scalable and field-ready solution that empowers farmers with actionable insights, improving crop yield and agricultural sustainability.
+
+Dataset Link - https://drive.google.com/drive/folders/1wPpGRNFFWv2iE9kW372qMysXYAc9YlBB?usp=sharing
